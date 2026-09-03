@@ -74,8 +74,8 @@ Firebase-based web app connecting blood donors and seekers in real time.
 
 ## 🎓 Education
 
-- **MBA** — Operations & Marketing | SASTRA University | 2020
-- **B.E** — Electronics & Communication | Anna University | 2017
+- **MBA** — Operations & Marketing | SASTRA University 
+- **B.E** — Electronics & Communication | Anna University 
 
 ---
 
