@@ -107,6 +107,8 @@ Tamil (Native) | English (Professional) | Kannada | Malayalam | Hindi | German (
 ---
 
 ## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/aravindh-quality-profile/))
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:eraravindmba.96@gmail.com)
 
 
 ---
